@@ -27,3 +27,9 @@ The program also presents the option to save the data as an 'output.txt' file.
  The file 'inputdata.txt' present contains some test data you can use to test the program.
 
  Make sure to select up to 394 lines, and to input the 5th column.
+
+-------------------------------------------------------------------
+
+UPDATE: Added a Python Script to draw a line plot of the output data.
+
+
